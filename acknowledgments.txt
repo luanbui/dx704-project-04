@@ -1,0 +1,3 @@
+Libraries used: numpy, pandas, scikit-learn, and matplotlib
+
+No other outside sources or help.
